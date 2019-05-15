@@ -18,7 +18,7 @@ A color RGB sensor is mounted orthogonal to the paper sensor to track the color 
 ### Materials
 
 
-<img src="https://github.com/mitmedialab/Wearable-Lab-on-a-Body/blob/master/Figures/exploded-view.png" width="100%" title="hover text">
+<img src="https://github.com/mitmedialab/physioHMD/blob/master/Figures/physioHMD_exploded.jpg" width="100%" title="hover text">
 
 
 ## Contributors
